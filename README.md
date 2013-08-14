@@ -29,7 +29,7 @@ The basic structure of the project is given in the following way:
 
 ## BCAPI Documentation
 
-[Conduit BCAPI Wiki Documentation](https://github.com/pbojinov)
+[Conduit BCAPI Documentation](http://wiki.conduit.com/display/conduitapis/Home)
 
 ## License
 
