@@ -38,7 +38,7 @@ Available generators:
 
 **Note: Generators are to be run from the root directory of your app.**
 
-### bcapi
+### app
 
 Generates a new Conduit toolbar app, generating all the boilerplate you need to get started. The app generator also optionally installs Twitter Bootstrap 3.0 and jQuery (1.10.2)
 
