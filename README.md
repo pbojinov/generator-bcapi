@@ -218,7 +218,6 @@ The basic structure of the project is given in the following way:
 │   └── scripts/
 │   └── styles/
 │   └── assets/
-│   └── index.html
 ├── dist/
 │   └── Apps/
 ├── .editorconfig
