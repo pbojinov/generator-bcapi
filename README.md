@@ -1,6 +1,6 @@
 # Conduit Apps Generator
 
-> A Yeoman generator that provides a functional boilerplate to easily create Conduit Toolbar apps using BCAPI out of the box.
+> A Yeoman generator that provides boilerplate code to easily create Conduit Toolbar apps.
 
 Maintainer: [Petar Bojinov](https://github.com/pbojinov)
 
