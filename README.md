@@ -6,19 +6,39 @@ Maintainer: [Petar Bojinov](https://github.com/pbojinov)
 
 ## Prerequisites
 
-1. Have node installed on your computer. See instructions here: [node.js](http://nodejs.org/download/)
-2. Have [yeoman](http://yeoman.io/index.html) installed: `npm install -g yo`
+1. Have node.js installed on your computer. See instructions [here](http://nodejs.org/download/)
+2. Have [yeoman](http://yeoman.io/index.html) installed
+
+        npm install -g yo
 
 ## Getting Started
 
-1. Install the generator by running: `npm install -g generator-bcapi`
-2. Run: `yo bcapi`
-3. Install depedencies `npm install`
+1. Install the generator by running
+
+        npm install -g generator-bcapi
+        
+2. Run the generator
+
+        yo bcapi
+        
+3. Install required depedencies 
+
+        npm install
+        
 3. Start writing your Conduit App :)
 
 ## Generators
 
-### app
+Available generators:
+
+* [bcapi](#app)
+* [bcapi:component](#component)
+* [bcapi:gadget](#gadget)
+* [bcapi:launch](#launch)
+
+**Note: Generators are to be run from the root directory of your app.**
+
+### bcapi
 
 Generates a new Conduit toolbar app, generating all the boilerplate you need to get started. The app generator also optionally installs Twitter Bootstrap 3.0 and jQuery (1.10.2)
 
