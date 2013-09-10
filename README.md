@@ -4,6 +4,11 @@
 
 Maintainer: [Petar Bojinov](https://github.com/pbojinov)
 
+## Prerequisites
+
+1. Have node installed on your computer. See instructions here: [node.js](http://nodejs.org/download/)
+2. Have [yeoman](http://yeoman.io/index.html) installed: `npm install -g yo`
+
 ## Getting Started
 
 1. Install the generator by running: `npm install -g generator-bcapi`
@@ -60,16 +65,11 @@ window.onload = function() {
     //some functions omitted for brevity
     
     function initialize() {
-
         window.EBDocumentComplete = function(tabid) {
             //the page has loaded!
         };
-
-        window.EBGlobalKeyChanged = function(key, value) {
-            //a key has changed
-        };
     }
-
+    
     initialize();
 };
 ```
