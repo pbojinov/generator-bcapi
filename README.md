@@ -31,7 +31,7 @@ Maintainer: [Petar Bojinov](https://github.com/pbojinov)
 
 Available generators:
 
-* [bcapi](#app)
+* [bcapi](#app) (aka [bcapi:app](#app))
 * [bcapi:component](#component)
 * [bcapi:gadget](#gadget)
 * [bcapi:launch](#launch)
