@@ -4,6 +4,10 @@
 
 Maintainer: [Petar Bojinov](https://github.com/pbojinov)
 
+![step 1, run yo bcapi](http://i.imgur.com/y4IVM57.png)
+
+![step 2, run npm install](http://i.imgur.com/pMgpdiZ.png)
+
 ## Prerequisites
 
 1. Have node.js installed on your computer. See instructions [here](http://nodejs.org/download/)
