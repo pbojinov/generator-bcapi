@@ -1,0 +1,10 @@
+Description:
+   Creates a Conduit BCAPI HTML gadget launcher
+
+Example:
+   yo bcapi:launch red
+
+   This will create:
+      app/red.html
+      app/scripts/red.js
+      app/styles/red.css

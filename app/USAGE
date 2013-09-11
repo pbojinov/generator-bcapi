@@ -1,0 +1,13 @@
+Description:
+   Creates a Conduit BCAPI HTML component
+
+Example:
+   yo bcapi 
+
+   This will create:
+      Gruntfile.js
+      package.json
+      app/
+      app/scripts
+      app/styles
+      app/assets

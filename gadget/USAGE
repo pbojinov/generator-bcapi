@@ -1,0 +1,13 @@
+Description:
+   Creates a default Conduit BCAPI html gadget
+
+Example:
+   yo bcapi:gadget greenGadget
+
+   This will create:
+
+      Gruntfile.js
+      package.json
+      app/greenGadget.html
+      app/scripts/greenGadget.js
+      app/styles/greenGadget.css

@@ -1,0 +1,47 @@
+{
+    "name": "generator-bcapi",
+    "version": "0.0.3",
+    "description": "A generator for Conduit Toolbar Apps using the BCAPI.js",
+    "keywords": [
+        "yeoman-generator",
+        "conduit",
+        "generator-bcapi"
+    ],
+    "homepage": "https://github.com/conduitinc/generator-bcapi",
+    "bugs": "https://github.com/conduitinc/generator-bcapi/issues",
+    "author": {
+        "name": "Petar",
+        "email": "petarbojinov@gmail.com",
+        "url": "https://github.com/pbojinov"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/conduitinc/generator-bcapi.git"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "dependencies": {
+        "yeoman-generator": "~0.13.4",
+        "grunt": "~0.4.1",
+        "grunt-cli": "~0.1.9",
+        "underscore": "1.5.1",
+        "matchdep": "0.1.2",
+        "mocha": "~1.12.1"
+    },
+    "devDependencies": {
+        "mocha": "~1.12.1",
+        "grunt": "~0.4.1",
+        "grunt-cli": "~0.1.9",
+        "yo": "~1.0.3",
+        "underscore.string": "~2.3.3"
+    },
+    "engines": {
+        "node": ">=0.8.0"
+    },
+    "licenses": [
+        {
+            "type": "MIT"
+        }
+    ]
+}

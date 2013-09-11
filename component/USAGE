@@ -1,0 +1,10 @@
+Description:
+   Creates a Conduit BCAPI HTML component
+
+Example:
+   yo bcapi:component green
+
+   This will create:
+      app/green.html
+      app/scripts/green.js
+      app/styles/green.css

@@ -11,7 +11,7 @@ Maintainer: [Petar Bojinov](https://github.com/pbojinov)
 ## Prerequisites
 
 1. Have node.js installed on your computer. See instructions [here](http://nodejs.org/download/)
-2. Have [yeoman](http://yeoman.io/index.html) installed
+2. Make sure you have [yo](http://yeoman.io/index.html) installed
 
         npm install -g yo
 
