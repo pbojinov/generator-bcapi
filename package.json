@@ -6,7 +6,7 @@
         "yeoman-generator",
         "generator-bcapi",
         "conduit",
-        "bcapi.js"
+        "bcapi.js",
         "bcapi",
         "gadget",
         "component",
