@@ -1,6 +1,7 @@
-# Conduit Apps Generator
+## MOVED TO NEW LOCATION
 
-> A Yeoman generator that provides boilerplate code to easily create Conduit Toolbar apps.
+https://github.com/ConduitInc/generator-bcapi
+ code to easily create Conduit Toolbar apps.
 
 Maintainer: [Petar Bojinov](https://github.com/pbojinov)
 
@@ -13,13 +14,13 @@ Maintainer: [Petar Bojinov](https://github.com/pbojinov)
 1. Have node.js installed on your computer. See instructions [here](http://nodejs.org/download/)
 2. Make sure you have [yo](http://yeoman.io/index.html) installed
 
-        npm install -g yo
+        sudo npm install -g yo
 
 ## Getting Started
 
 1. Install the generator by running
 
-        npm install -g generator-bcapi
+        sudo npm install -g generator-bcapi
         
 2. Run the generator
 
