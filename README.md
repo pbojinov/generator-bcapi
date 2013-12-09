@@ -238,3 +238,7 @@ The basic structure of the project is given in the following way:
 ## License
 
 [MIT License](http://zenorocha.mit-license.org/)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ConduitInc/generator-bcapi/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
