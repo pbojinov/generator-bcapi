@@ -1,4 +1,4 @@
-# generate-bcapi (Toolbar Apps Generator)
+# generator-bcapi 
 
 > A Yeoman generator that provides boilerplate code to easily create toolbar apps.
 
