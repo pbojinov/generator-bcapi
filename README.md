@@ -1,6 +1,6 @@
-# Conduit Apps Generator
+# generate-bcapi (Toolbar Apps Generator)
 
-> A Yeoman generator that provides boilerplate code to easily create Conduit Toolbar apps.
+> A Yeoman generator that provides boilerplate code to easily create toolbar apps.
 
 Maintainer: [Petar Bojinov](https://github.com/pbojinov)
 
@@ -29,7 +29,7 @@ Maintainer: [Petar Bojinov](https://github.com/pbojinov)
 
         npm install
         
-3. Start writing your Conduit App :)
+3. Start writing your app :)
 
 ## Generators
 
@@ -44,7 +44,7 @@ Available generators:
 
 ### app
 
-Generates a new Conduit toolbar app, generating all the boilerplate you need to get started. The app generator also optionally installs Twitter Bootstrap 3.0 and jQuery (1.10.2)
+Generates a new toolbar app, generating all the boilerplate you need to get started. The app generator also optionally installs Twitter Bootstrap 3.0 and jQuery (1.10.2)
 
 Example:
 
@@ -233,7 +233,7 @@ The basic structure of the project is given in the following way:
 
 ## BCAPI Documentation
 
-[Conduit BCAPI Documentation](http://wiki.conduit.com/display/conduitapis/Home)
+[BCAPI Documentation](http://wiki.toolmx.com/display/conduitapis/Home)
 
 ## License
 
