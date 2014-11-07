@@ -1,6 +1,6 @@
 {
     "name": "generator-bcapi",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "A generator for Conduit Toolbar Apps using the BCAPI.js",
     "keywords": [
         "yeoman-generator",
@@ -12,8 +12,8 @@
         "component",
         "launch"
     ],
-    "homepage": "https://github.com/conduitinc/generator-bcapi",
-    "bugs": "https://github.com/conduitinc/generator-bcapi/issues",
+    "homepage": "https://github.com/pbojinov/generator-bcapi",
+    "bugs": "https://github.com/pbojinov/generator-bcapi/issues",
     "author": {
         "name": "Petar",
         "email": "petarbojinov@gmail.com",
@@ -21,7 +21,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/conduitinc/generator-bcapi.git"
+        "url": "git://github.com/pbojinov/generator-bcapi.git"
     },
     "scripts": {
         "test": "mocha"
